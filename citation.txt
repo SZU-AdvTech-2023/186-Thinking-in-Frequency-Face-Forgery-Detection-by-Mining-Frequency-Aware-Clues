@@ -1,0 +1,8 @@
+@article{REPO186,
+    author = "Qian, Yuyang and Yin, Guojun and Sheng, Lu and Chen, Zixuan and Shao, Jing",
+    booktitle = "European conference on computer vision",
+    organization = "Springer",
+    pages = "86--103",
+    title = "{Thinking in Frequency: Face Forgery Detection by Mining Frequency-Aware Clues}",
+    year = "2020"
+}
